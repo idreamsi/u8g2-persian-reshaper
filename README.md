@@ -5,9 +5,11 @@ Reconstruct Persian/Arabic sentences to be used in [u8g2 library](https://github
 Arabic script is very special with two essential features:
 - It is written from right to left.
 - The characters change shape according to their surrounding characters.
+
 So when you try to print text written in Arabic script in an application – or a library – that doesn’t support Persian/Arabic you’re pretty likely to end up with something that looks like this:
+
 <p align="center">
-![Arabic text written from left to right with no reshaping](http://mpcabd.xyz/wp-content/uploads/2012/05/arabic-1.png
+  <img src="http://mpcabd.xyz/wp-content/uploads/2012/05/arabic-1.png">
 </p>
 
 ## Screenshot

@@ -1,4 +1,4 @@
-// u8g2-Persian-Reshaper
+// u8g2 Persian Reshaper
 // Copyright (C) 2019 Ramin Sangesari
 // https://github.com/idreamsi/u8g2-persian-reshaper
 

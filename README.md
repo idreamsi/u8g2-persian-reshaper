@@ -6,7 +6,7 @@ Persian/Arabic script is very special with two essential features:
 - It is written from right to left.
 - The characters change shape according to their surrounding characters.
 
-So when you try to print text written in Persian/Arabic script on LCD/OLED that doesn’t support Persian/Arabic you’re pretty likely to end up with something that looks like this:
+So when you try to print text written in Persian/Arabic script on LCD/OLED display that doesn’t support Persian/Arabic you’re pretty likely to end up with something that looks like this:
 
 <p align="center">
   <img src="http://mpcabd.xyz/wp-content/uploads/2012/05/arabic-1.png">

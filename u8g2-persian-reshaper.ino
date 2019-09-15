@@ -33,7 +33,7 @@ typedef struct prGlyph {
 };
 
 const prGlyph prForms[] PROGMEM = {
-	  // Ascii Code, Code, Isolated, Initial, Medial, Final
+    // Ascii Code, Code, Isolated, Initial, Medial, Final
     {193, "\u0621", "\uFE80", "\uFE80", "\uFE80", "\uFE80" },     //1 HAMZA ء	[*]
     {194, "\u0622", "\uFE81", "\uFE81", "\uFE82", "\uFE82" },     //2 ALEF_MADDA آ [*]
     {195, "\u0623", "\uFE83", "\uFE83", "\uFE84", "\uFE84" },     //3 ALEF_HAMZA_ABOVE أ [*]

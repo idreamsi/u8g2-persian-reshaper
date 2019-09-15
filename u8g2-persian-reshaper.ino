@@ -141,8 +141,8 @@ String prReshaper(char *Text){
   String prBuffer = "";
   int stat = 0;
   unsigned char pLetter = ' ';    	//Previous word
-  unsigned char letter;             //Letter
-  unsigned char nLetter;     	      //Next word
+  unsigned char letter;             	//Letter
+  unsigned char nLetter;     	      	//Next word
   unsigned char temp;
   
   while(temp = *Text++){

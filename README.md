@@ -17,6 +17,9 @@ So when you try to print text written in Persian/Arabic script on LCD/OLED displ
   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
 </p>
 
+## Download & Usage
+Download/Clone repository, then Install [u8g2 library](https://github.com/olikraus/u8g2/wiki/u8g2install)
+
 ## 📫 Contact
 Copyright (C) 2019 [Ramin Sangesari](mailto:r.sangsari@gmail.com).
 

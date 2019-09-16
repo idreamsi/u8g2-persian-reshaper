@@ -18,7 +18,7 @@ So when you try to print text written in Persian/Arabic script on LCD/OLED displ
 </p>
 
 ## Download & Usage
-Download/Clone repository, then Install [u8g2 library](https://github.com/olikraus/u8g2/wiki/u8g2install)
+Download/Clone repository, then Install [u8g2 library](https://github.com/olikraus/u8g2/wiki/u8g2install). Finally upload the code.
 
 ## 📫 Contact
 Copyright (C) 2019 [Ramin Sangesari](mailto:r.sangsari@gmail.com).

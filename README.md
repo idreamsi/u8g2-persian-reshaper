@@ -14,7 +14,7 @@ So when you try to print text written in Persian/Arabic script on LCD/OLED displ
 
 ## 📷 Screenshot
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="688" height="488" src="https://github.com/idreamsi/u8g2-persian-reshaper/blob/master/screenshot.png?raw=true">
 </p>
 
 ## Download & Usage

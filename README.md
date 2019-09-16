@@ -17,7 +17,7 @@ So when you try to print text written in Persian/Arabic script on LCD/OLED displ
   <img width="516" height="600" src="https://github.com/idreamsi/u8g2-persian-reshaper/blob/master/screenshot.png?raw=true">
 </p>
 
-## Download & Usage
+## ⚙️ Download & Usage
 Download/Clone repository, then Install [u8g2 library](https://github.com/olikraus/u8g2/wiki/u8g2install). Finally upload the code.
 
 ## 📫 Contact

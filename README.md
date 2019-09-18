@@ -18,7 +18,7 @@ So when you try to print text written in Persian/Arabic script on LCD/OLED displ
 </p>
 
 ## ⚙️ Download & Usage
-Download/Clone repository, then Install [u8g2 library](https://github.com/olikraus/u8g2/wiki/u8g2install). Finally upload the code. Change [this line](https://github.com/idreamsi/u8g2-persian-reshaper/blob/629c98f3ab882f6cb7662f8ce0c2ef2c2fa8111d/u8g2-persian-reshaper.ino#L15) depending on the display type and wiring.
+Download/Clone repository, then Install [u8g2 library](https://github.com/olikraus/u8g2/wiki/u8g2install). Change [this line](https://github.com/idreamsi/u8g2-persian-reshaper/blob/629c98f3ab882f6cb7662f8ce0c2ef2c2fa8111d/u8g2-persian-reshaper.ino#L15) depending on the display type and wiring. Finally upload the code.
 
 [راهنمای استفاده به زبان فارسی](http://www.idreams.ir/%d9%81%d8%a7%d8%b1%d8%b3%db%8c-%d9%86%d9%88%db%8c%d8%b3%db%8c-%d8%af%d8%b1-%d8%a2%d8%b1%d8%af%d9%88%db%8c%d9%86%d9%88-%d8%a8%d8%a7-%da%a9%d8%aa%d8%a7%d8%a8%d8%ae%d8%a7%d9%86%d9%87-u8g2/)
 

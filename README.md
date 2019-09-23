@@ -22,6 +22,8 @@ Download/Clone repository, then Install [u8g2 library](https://github.com/olikra
 
 [راهنمای استفاده به زبان فارسی](http://www.idreams.ir/%d9%81%d8%a7%d8%b1%d8%b3%db%8c-%d9%86%d9%88%db%8c%d8%b3%db%8c-%d8%af%d8%b1-%d8%a2%d8%b1%d8%af%d9%88%db%8c%d9%86%d9%88-%d8%a8%d8%a7-%da%a9%d8%aa%d8%a7%d8%a8%d8%ae%d8%a7%d9%86%d9%87-u8g2/)
 
+[راهنمای ساخت فونت جدید](http://www.idreams.ir/%da%86%da%af%d9%88%d9%86%da%af%db%8c-%d8%b3%d8%a7%d8%ae%d8%aa-%d9%81%d9%88%d9%86%d8%aa-%d8%af%d9%84%d8%ae%d9%88%d8%a7%d9%87-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%aa%d8%a7%d8%a8%d8%ae%d8%a7%d9%86%d9%87-u8/)
+
 ## 📫 Contact
 Copyright (C) 2019 [Ramin Sangesari](mailto:r.sangsari@gmail.com).
 

@@ -1,6 +1,7 @@
 // u8g2 Persian Reshaper
 // Copyright (C) 2019 Ramin Sangesari
 // https://github.com/idreamsi/u8g2-persian-reshaper
+// Font Size: 17
 
 const uint8_t idreams_17[4429] U8G2_FONT_SECTION("idreams_17") = 
   "\4\0\4\4\5\5\2\5\6\25\31\376\370\15\0\16\377\0\0\0\0\1\314!\12\304\371H\370\300\320\203"

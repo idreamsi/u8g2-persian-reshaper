@@ -130,8 +130,8 @@ bool isFromTheSet2(unsigned char ch){
 int FindGlyph(unsigned char chFind){
   for (int i = 0; i < N_DISTINCT_CHARACTERS; i++) {
     if (pgm_read_word(&(prForms[i].AsciiCode)) == chFind) {
-		  return i;
-      break;
+	return i;
+	break;
     }
   }
   return -1;

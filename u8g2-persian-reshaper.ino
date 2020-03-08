@@ -274,7 +274,7 @@ String prReshaper(char *Text){
     if(isunk == 0)
       pLetter = letter;  
   }
-  utf8rev(prBuffer.c_str());
+  utf8rev((char *)prBuffer.c_str());
   return prBuffer; 
 }
 //----------------------------------------------------------------------------

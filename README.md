@@ -30,5 +30,5 @@ Copyright (C) 2019 [Ramin Sangesari](mailto:r.sangsari@gmail.com).
 ## 💵 Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :)
 
-- Donate via Bitcoin: 176H7tbpfyUVKiwkkwj6BJfC1X7hQWTq8v
+- Donate via Bitcoin: 17FjznvUNk8G9UPKsvpVCq9U7z4iDtXVBE
 - [Donate via IDPay](https://idpay.ir/idreams)

@@ -17,6 +17,9 @@ So when you try to print text written in Persian/Arabic script on LCD/OLED displ
   <img width="516" height="600" src="https://github.com/idreamsi/u8g2-persian-reshaper/blob/master/screenshot.jpg?raw=true">
 </p>
 
+## Online simulation on ESP32
+Use [Wokwi.com](https://wokwi.com/projects/396665716569734145) for online simulation.
+
 ## ⚙️ Download & Usage
 Download/Clone repository, then Install [u8g2 library](https://github.com/olikraus/u8g2/wiki/u8g2install). Change [this line](https://github.com/idreamsi/u8g2-persian-reshaper/blob/629c98f3ab882f6cb7662f8ce0c2ef2c2fa8111d/u8g2-persian-reshaper.ino#L15) depending on the display type and wiring. Finally upload the code.
 

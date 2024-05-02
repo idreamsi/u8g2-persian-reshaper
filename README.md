@@ -17,7 +17,7 @@ So when you try to print text written in Persian/Arabic script on LCD/OLED displ
   <img width="516" height="600" src="https://github.com/idreamsi/u8g2-persian-reshaper/blob/master/screenshot.jpg?raw=true">
 </p>
 
-## Online simulation on ESP32
+## 🏃 Online simulation on ESP32
 Use [Wokwi.com](https://wokwi.com/projects/396665716569734145) for online simulation.
 
 ## ⚙️ Download & Usage

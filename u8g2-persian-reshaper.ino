@@ -256,16 +256,20 @@ String prReshaper(char *Text){
 
 	switch (stat){
 		case 0: //Isolated
-			prBuffer += (char*)pgm_read_word(&(prForms[number].isoGlyph));		
+			//prBuffer += (char*)pgm_read_word(&(prForms[number].isoGlyph));
+			prBuffer += (char*)(prForms[number].isoGlyph);
 			break;
 		case 1: //Initial
-			prBuffer += (char*)pgm_read_word(&(prForms[number].iniGlyph));
+			//prBuffer += (char*)pgm_read_word(&(prForms[number].iniGlyph));
+			prBuffer += (char*)(prForms[number].iniGlyph);
 			break;
 		case 2: //Final
-			prBuffer += (char*)pgm_read_word(&(prForms[number].endGlyph));
+			//prBuffer += (char*)pgm_read_word(&(prForms[number].endGlyph));
+			prBuffer += (char*)(prForms[number].endGlyph);
 			break;
 		case 3: //Medial
-			prBuffer += (char*)pgm_read_word(&(prForms[number].midGlyph));
+			//prBuffer += (char*)pgm_read_word(&(prForms[number].midGlyph));
+			prBuffer += (char*)(prForms[number].midGlyph);
 			break;		
 		default:
 			isunk = 1;
